@@ -1,0 +1,21 @@
+InicioPareseImpares 
+ var numeropar
+ var numeroimpar
+ var x
+ contador = 0
+ Escribir "Ingerar un numero entero N"
+ leer(numero)
+	
+ numero=aleatorio0<=100
+	
+ para x = n hasta 100 hacer
+    si x mod 2 == 0 entonces
+    si x mod 3 == 0 entonces
+       contador = contador + 1
+ Escribir x
+  FinSi
+ Fin Para 
+ Escribir "El total de los numeros pares es:", contador
+   SiNo 
+ Escribir "El total de los numeros impares es:"
+FinNumeroAlearotio
